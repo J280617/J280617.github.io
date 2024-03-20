@@ -1,5 +1,5 @@
 # Naw Junia Lu Lu
-- have a nice day!
-- hello!
-
-## website
+### Profile
+- **Started**: 20th March 2024
+- **Role**: Software Developer
+- **Hobbies**: Singing
